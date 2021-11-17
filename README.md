@@ -2,4 +2,4 @@
 
 Default is 64GB swap
 Run this:
-`wget https://raw.githubusercontent.com/CyperiaDevelopment/privateswapscript/main/swap && chmod 600 ./swap && bash ./swap`
+`wget https://raw.githubusercontent.com/CyperiaDevelopment/privateswapscript/main/script && chmod 600 ./script && bash ./script`
