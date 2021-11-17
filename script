@@ -33,4 +33,7 @@ echo Firewall enabled.
 echo Enabling Cyperia DDOS Protection...
 apt install fail2ban
 echo DDOS Protection enabled.
-echo ----- SCRIPT COMPLETE - Powered by Cyperia -----
+echo -------------------------------------------
+echo Cyperia Script version 1.0.1
+echo Script complete!
+echo -------------------------------------------
